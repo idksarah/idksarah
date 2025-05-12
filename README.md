@@ -1,6 +1,6 @@
-## Hi there 👋
+## hi!! i'm sarah 
 
-<!--
+[<!--
 **idksarah/idksarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://github-readme-stats.hackclub.dev/api/wakatime?username=2437&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
