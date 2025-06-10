@@ -1,4 +1,2 @@
-## hi!! i'm sarah 
-
-[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2437&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
-
+ ![tamagitchi](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2b4c7a05f3848557deeeab5ae582983cd74023d1_image.png) <br>
+    tamagitchi is feeling happy!
