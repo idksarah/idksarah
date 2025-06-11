@@ -3,10 +3,10 @@
 <p> find me on the hackclub slack @idksarah!</p>
 <hr class="solid">
 <div align="center">
-<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/84c5779df6447a2f74ba16641f7bffe63616ef6d_neutral.gif" alt="tamagitchi" /><br>
+<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52a51244037834d41778e57a5599cb98420597ad_happy.gif" alt="tamagitchi" /><br>
 
-<p>octocat is feeling neutral because idksarah hasn't made a commit <i>today</i> but has made >= one commit in the <i>past three days</i>.</p>
+<p>octocat is feeling happy because idksarah has made >= one commit today!</p>
 <p>pet them to make them excited! (<a href="https://github.com/idksarah/tamagitchi">star idksarah's tamagitchi!! ⭐</a>)</p>
 
-<p>last updated: 11:50 pst</p>
+<p>last updated: 12:41 pst</p>
 </div>
