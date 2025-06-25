@@ -3,10 +3,10 @@
 <p> find me on the hackclub slack @idksarah!</p>
 <hr class="solid">
 <div align="center">
-<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7d352400490c50770430f069bf846b1b0d4abbce_excited.gif" alt="tamagitchi" /><br>
+<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52a51244037834d41778e57a5599cb98420597ad_happy.gif" alt="tamagitchi" /><br>
 
-<p>octocat is feeling excited because idksarah received a star on <i>tamagitchi</i>!</p>
-<p>petting them can't make them any happier, but it sure will make idksarah happy! (<a href="https://github.com/idksarah/tamagitchi">star idksarah's tamagitchi!! ⭐</a>)</p>
+<p>octocat is feeling happy because idksarah has made >= one commit today!</p>
+<p>pet them to make them excited! (<a href="https://github.com/idksarah/tamagitchi">star idksarah's tamagitchi!! ⭐</a>)</p>
 
-<p>last updated: 11:22 utc | tamagitchi updates once an hour. check back soon! </p>
+<p>last updated: 12:54 utc | tamagitchi updates once an hour. check back soon! </p>
 </div>
