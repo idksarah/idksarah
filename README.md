@@ -8,5 +8,5 @@
 <p>octocat is feeling excited because idksarah received a star on <i>tamagitchi</i>!</p>
 <p>petting them can't make them any happier, but it sure will make idksarah happy! (<a href="https://github.com/idksarah/tamagitchi">star idksarah's tamagitchi!! ⭐</a>)</p>
 
-<p>last updated: 02:08 utc | tamagitchi updates once an hour. check back soon! </p>
+<p>last updated: 04:00 utc | tamagitchi updates once an hour. check back soon! </p>
 </div>
